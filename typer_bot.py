@@ -15,9 +15,3 @@ while True:
     for x in user_input:
         time.sleep(0.00000005)
         keyboard.type(x)
-        
-
-        
-
-
-
