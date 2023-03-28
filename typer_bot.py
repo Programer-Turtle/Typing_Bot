@@ -11,11 +11,11 @@ while True:
     time.sleep(5)
     
 
-    while True:
-        for x in user_input:
-            time.sleep(0.00000005)
-            keyboard.type(x)
-        break
+    
+    for x in user_input:
+        time.sleep(0.00000005)
+        keyboard.type(x)
+        
 
         
 
